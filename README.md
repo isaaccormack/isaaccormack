@@ -1,5 +1,5 @@
 ## Hello World! 👋
-🌱 My name's Isaac, I'm in my 4th year at UVic and I'm currently:
+🌱 My name's Isaac, I'm in my 4th year at UVic and currently:
 - ✨ Developing a web app Tabber to automatically tab guitar licks -> [tabber.icormack.com](https://tabber.icormack.com)
 - :hammer_and_pick:	Working with [VikeLabs](https://github.com/VikeLabs) to release an npm package for parsing UVic course data
 - :nerd_face:	Studying ML and applying it through a course project (coming soon)
