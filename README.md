@@ -12,7 +12,7 @@ To summarize in three bullet points:
 
 
 ### Tech :abacus:	
-Below is some tech I've used in side projects and on co-op.
+I'm familair with:
 <p align='center'>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
