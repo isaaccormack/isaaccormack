@@ -6,9 +6,16 @@
 
 ### About Me 
 To summarize in three bullet points:
-- :man_technologist:	Developed  large-scale FinTech systems at Global Relay :bank: and implemented diagnostic algorithms at General Motors :blue_car:	
-- :family_man_man_girl_boy:	 Love working with university clubs. Led projects at the UVic Rocketry :rocket:	and Formula Hybrid :racing_car:	teams
-- :revolving_hearts:	When I'm not on the computer, I like to :cook:	:guitar:	:weight_lifting:	:bicyclist: :runner: :climbing_man:	:man_cartwheeling:
+- :man_technologist: &nbsp; Interested in full-stack development and all the cool stuff that goes along with it :dart:	
+- :family_man_man_girl_boy:	&nbsp; Love working with clubs. Theres a special place in my heart for UVic Rocketry :rocket:, Formula Hybrid :racing_car: , and VikeLabs :floppy_disk:
+- :revolving_hearts: &nbsp; When I'm not on the computer, I like to
+:cook: &nbsp;
+:guitar: &nbsp;
+:weight_lifting: &nbsp;
+:bicyclist: &nbsp;
+:runner: &nbsp;
+:climbing_man: &nbsp;
+:man_cartwheeling: &nbsp;
 
 
 ### Tech :abacus:	
@@ -24,18 +31,3 @@ I've worked with:
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
 </p>
-
-<!--
-**isaaccormack/isaaccormack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
