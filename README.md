@@ -6,8 +6,8 @@
 
 ### About Me 
 To summarize in three bullet points:
-- :man_technologist: &nbsp; Interested in full-stack development and all the cool stuff that goes along with it :dart:	
-- :family_man_man_girl_boy:	&nbsp; Love working with clubs. There's a special place in my heart for UVic Rocketry :rocket:, Formula Hybrid :racing_car: , and VikeLabs :floppy_disk:
+- :man_technologist: &nbsp; Interested in the nooks and crannies of full-stack development :dart:	
+- :family_man_man_girl_boy:	&nbsp; Love working with clubs. Built some cool stuff with UVic Rocketry :rocket:, Formula Hybrid :racing_car: , and VikeLabs :floppy_disk:
 - :revolving_hearts: &nbsp; When I'm not on the computer, I like to
 :cook: &nbsp;
 :guitar: &nbsp;
