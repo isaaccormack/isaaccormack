@@ -4,11 +4,10 @@
 - :hammer_and_pick:	Releasing an npm package [_schedule-scraper_](https://github.com/VikeLabs/scheduler-scraper) with [VikeLabs](https://github.com/VikeLabs), to parse UVic course data into a simple API
 - :nerd_face:	Studying ML and applying it through a course project (coming soon)
 
-### About Me 
-To summarize in three bullet points:
-- :man_technologist: &nbsp; Interested in the nooks and crannies of full-stack development :dart:	
-- :family_man_man_girl_boy:	&nbsp; Love working with clubs. Built some cool stuff with UVic Rocketry :rocket:, Formula Hybrid :racing_car: , and VikeLabs :floppy_disk:
-- :revolving_hearts: &nbsp; When I'm not on the computer, I like to
+### 3 Facts About Me?
+- :coffee: &nbsp; I love coffee
+- :coffee: &nbsp; I recently began loving decaf coffee :warning:
+- :revolving_hearts: &nbsp; I also like to
 :cook: &nbsp;
 :guitar: &nbsp;
 :weight_lifting: &nbsp;
