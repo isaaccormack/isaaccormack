@@ -4,7 +4,7 @@
 - :hammer_and_pick:	Releasing an npm package [_schedule-scraper_](https://github.com/VikeLabs/scheduler-scraper) with [VikeLabs](https://github.com/VikeLabs), to parse UVic course data into a simple API
 - :nerd_face:	Studying ML and applying it through a course project (coming soon)
 
-### 3 Facts About Me?
+### 3 Facts About Me
 - :coffee: &nbsp; I love coffee
 - :coffee: &nbsp; I recently began loving decaf coffee :warning:
 - :revolving_hearts: &nbsp; I also like to
