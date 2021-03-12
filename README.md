@@ -1,13 +1,8 @@
 ## Hello World! 👋
-🌱 My name's Isaac, I'm currently in my 4th year at UVic and working on:
-- ✨ Developing [_Tabber_](https://github.com/isaaccormack/tabber), a web app to automatically tab guitar licks. It's live at [tabber.icormack.com](https://tabber.icormack.com)
-- :hammer_and_pick:	Releasing an npm package [_schedule-scraper_](https://github.com/VikeLabs/scheduler-scraper) with [VikeLabs](https://github.com/VikeLabs), to parse UVic course data into a simple API
-- :nerd_face:	Studying ML and applying it through a course project (coming soon)
-
-### 3 Facts About Me
-- :coffee: &nbsp; I love coffee
-- :coffee: &nbsp; I recently began loving decaf coffee :warning:
-- :revolving_hearts: &nbsp; I also like to
+🌱 My name's Isaac, I'm currently in my 4th year at UVic and:
+- ✨ &nbsp; Developing [_Clockwork_](https://github.com/VikeLabs/clockwork) with Vikelabs to make course registration at UVic easy
+- :nerd_face: &nbsp; Studying ML and building a [_LSTM song genre classifier_](https://github.com/smithaustin/song-genre-classification) using sequenced lyrics
+- :revolving_hearts: &nbsp; Spending my free time doing
 :cook: &nbsp;
 :guitar: &nbsp;
 :weight_lifting: &nbsp;
