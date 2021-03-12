@@ -2,7 +2,7 @@
 🌱 My name's Isaac, I'm currently in my 4th year at UVic and:
 - ✨ &nbsp; Developing [_Clockwork_](https://github.com/VikeLabs/clockwork) with Vikelabs to make course registration at UVic easy
 - :nerd_face: &nbsp; Studying ML and building a [_LSTM song genre classifier_](https://github.com/smithaustin/song-genre-classification) using sequenced lyrics
-- :revolving_hearts: &nbsp; Spending my free time doing
+- :revolving_hearts: &nbsp; Spending my free time on
 :cook: &nbsp;
 :guitar: &nbsp;
 :weight_lifting: &nbsp;
